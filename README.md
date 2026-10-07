@@ -1,90 +1,51 @@
 <div align="center">
 
-# Hi, I'm Risyad 👋
+# Risyad
 
-### Computer Engineering Student • AI-Assisted Developer • Game Builder
+**Computer Engineering Student · Game Developer · AI-Assisted Builder**
 
-I like turning ideas into playable, useful, and slightly over-engineered things.  
-Currently exploring **game development, automation, web development, and AI-assisted coding**.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-risyadme.my.id-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://risyadme.my.id)
-[![GitHub](https://img.shields.io/badge/GitHub-Risyadx-181717?style=for-the-badge&logo=github)](https://github.com/Risyadx)
-
-</div>
-
----
-
-## ⚡ About Me
-
-- 🎓 Computer Engineering student at **Universitas Syiah Kuala**
-- 🎮 Interested in **game development, systems, and interactive experiences**
-- 🤖 I use AI as a coding co-pilot to learn faster, prototype ideas, and ship projects
-- 🐍 I use **Python** for automation, scripting, and everyday problem solving
-- 🧩 I enjoy learning by building real projects instead of only reading theory
-- 🚀 Currently focused on improving my programming fundamentals and building better games
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-DBB284?style=for-the-badge)
-
-### Game & Creative
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
-
-### Web & Tools
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🚧 What I'm Building
-
-I enjoy projects where software feels alive: games, tools, automation, and systems that actually do something.
-
-Some areas I'm currently exploring:
-
-- 🎮 **Game systems & prototyping**
-- 🌐 **Web applications**
-- ⚙️ **Automation & scripting**
-- 🧠 **AI-assisted development workflows**
-- 🕹️ **Multiplayer / server-side game logic**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Risyadx&show_icons=true&hide_border=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risyadx&layout=compact&hide_border=true&theme=transparent" height="165" />
+I build games, tools, and experiments while learning how software works under the hood.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Risyadx&theme=transparent&hide_border=true" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-risyadme.my.id-000000?style=flat-square&labelColor=000000&color=000000)](https://risyadme.my.id)
+[![GitHub](https://img.shields.io/badge/GITHUB-Risyadx-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Risyadx)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## About
+
+- Computer Engineering student at **Universitas Syiah Kuala**
+- Focused on **game development, automation, systems, and interactive projects**
+- Learning by building real projects and improving my programming fundamentals
+- Using AI as a coding co-pilot for prototyping, debugging, and learning faster
+
+---
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-000000?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=robloxstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## Current Focus
 
 ```text
-Programming fundamentals
-Python
+Game development
+Python automation
 Unity / C#
 Game architecture
 Computer Engineering
@@ -93,22 +54,23 @@ AI-assisted development
 
 ---
 
-## 💬 A Little Philosophy
+## GitHub
 
-> I don't need to know everything before I start.  
-> I just need to understand a little more than I did yesterday.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Risyadx&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risyadx&layout=compact&hide_border=true&hide_title=true&theme=transparent" height="155" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's build something cool.
+<sub>Build. Break. Learn. Repeat.</sub>
 
-**Website:** [risyadme.my.id](https://risyadme.my.id)  
-**Discord:** `risyad`
+<br/><br/>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Risyadx&style=flat-square)
+[risyadme.my.id](https://risyadme.my.id) · `risyad` on Discord
 
 </div>
