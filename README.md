@@ -2,31 +2,49 @@
 
 # Risyad
 
+`student@computer-engineering:~$ whoami`
+
 **Computer Engineering Student · Game Developer · AI-Assisted Builder**
 
-I build games, tools, and experiments while learning how software works under the hood.
+<sub>Building games, tools, and systems while learning how computers think.</sub>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-risyadme.my.id-000000?style=flat-square&labelColor=000000&color=000000)](https://risyadme.my.id)
-[![GitHub](https://img.shields.io/badge/GITHUB-Risyadx-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Risyadx)
+[![Portfolio](https://img.shields.io/badge/portfolio-risyadme.my.id-000000?style=flat-square&logo=vercel&logoColor=white)](https://risyadme.my.id)
+[![GitHub](https://img.shields.io/badge/github-Risyadx-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Risyadx)
 
 </div>
 
 ---
 
-## About
+```bash
+$ cat about.txt
 
-- Computer Engineering student at **Universitas Syiah Kuala**
-- Focused on **game development, automation, systems, and interactive projects**
-- Learning by building real projects and improving my programming fundamentals
-- Using AI as a coding co-pilot for prototyping, debugging, and learning faster
+Computer Engineering student at Universitas Syiah Kuala
+Interested in game development, automation, and interactive systems
+Learning by building real projects
+Using AI as a coding co-pilot for prototyping, debugging, and learning
+```
 
 ---
 
-## Stack
+## workspace
 
-<div align="center">
+```text
+~/focus
+├── game-development
+├── unity-csharp
+├── python-automation
+├── game-architecture
+├── computer-engineering
+└── ai-assisted-development
+```
+
+---
+
+## stack
+
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=dotnet&logoColor=white)
@@ -41,33 +59,37 @@ I build games, tools, and experiments while learning how software works under th
 
 ---
 
-## Current Focus
+## selected work
 
 ```text
-Game development
-Python automation
-Unity / C#
-Game architecture
-Computer Engineering
-AI-assisted development
+> apathy
+  game project / systems experiment
+
+> more projects
+  currently building...
 ```
 
 ---
 
-## GitHub
+## github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Risyadx&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risyadx&layout=compact&hide_border=true&hide_title=true&theme=transparent" height="155" />
+<img src="https://github-readme-stats.vercel.app/api?username=Risyadx&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risyadx&layout=compact&hide_border=true&hide_title=true&theme=transparent" height="150" />
 
 </div>
 
 ---
 
+```bash
+$ echo "build. break. learn. repeat."
+build. break. learn. repeat.
+```
+
 <div align="center">
 
-<sub>Build. Break. Learn. Repeat.</sub>
+<sub>VS Code open · terminal ready · probably debugging something</sub>
 
 <br/><br/>
 
